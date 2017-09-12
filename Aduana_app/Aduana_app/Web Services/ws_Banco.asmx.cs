@@ -21,7 +21,7 @@ namespace Aduana_app.Web_Services
         public string transferencia_Cuenta(string cuenta_Origen, string cuenta_Destino, double monto)
         {
             string strResultado = "";
-            if (cuenta_Origen != null && cuenta_oDestino != null && monto >= 1000)
+            if (cuenta_Origen != null && cuenta_Destino != null && monto >= 1000)
             {
                 string strAtributos = "id_Transferencia,30004999,1;"
                                     + "respuesta,true,1;"
