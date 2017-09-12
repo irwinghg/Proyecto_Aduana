@@ -70,8 +70,8 @@ namespace Aduana_app.Web_Services
                 else
                     strResultado += "," + string.Format(strPlantilla, arrAtributo[0], strTipo + arrAtributo[1] + strTipo);
             }
-            return "{" + strResultado +4 "}";
-            
+            return "{" + strResultado + "}";
+            aksjdbasd;
         }
     }
 }
