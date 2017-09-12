@@ -16,7 +16,7 @@ namespace Aduana_app.Web_Services
     // [System.Web.Script.Services.ScriptService]
     public class ws_Banco : System.Web.Services.WebService
     {
-
+        465414
         [WebMethod]
         public string transferencia_Cuenta(string cuenta_Origen, string cuenta_Destino, double monto)
         {
