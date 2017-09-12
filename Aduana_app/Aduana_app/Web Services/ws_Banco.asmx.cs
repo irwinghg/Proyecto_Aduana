@@ -71,7 +71,7 @@ namespace Aduana_app.Web_Services
                     strResultado += "," + string.Format(strPlantilla, arrAtributo[0], strTipo + arrAtributo[1] + strTipo);
             }
             return "{" + strResultado + "}";
-            lñjnlhknj
+            
         }
     }
 }
