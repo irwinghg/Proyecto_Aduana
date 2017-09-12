@@ -38,3 +38,23 @@ C:\Users\richa\OneDrive\Documentos\Visual Studio 2015\Projects\Aduana_Project\Ad
 C:\Users\richa\OneDrive\Documentos\Visual Studio 2015\Projects\Aduana_Project\Aduana_app\Aduana_app\obj\Debug\Aduana_app.csprojResolveAssemblyReference.cache
 C:\Users\richa\OneDrive\Documentos\Visual Studio 2015\Projects\Aduana_Project\Aduana_app\Aduana_app\obj\Debug\Aduana_app.dll
 C:\Users\richa\OneDrive\Documentos\Visual Studio 2015\Projects\Aduana_Project\Aduana_app\Aduana_app\obj\Debug\Aduana_app.pdb
+E:\USAC\SA\Proyecto\Aduana_app\Aduana_app\bin\roslyn\csc.exe
+E:\USAC\SA\Proyecto\Aduana_app\Aduana_app\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\USAC\SA\Proyecto\Aduana_app\Aduana_app\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\USAC\SA\Proyecto\Aduana_app\Aduana_app\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\USAC\SA\Proyecto\Aduana_app\Aduana_app\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\USAC\SA\Proyecto\Aduana_app\Aduana_app\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\USAC\SA\Proyecto\Aduana_app\Aduana_app\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\USAC\SA\Proyecto\Aduana_app\Aduana_app\bin\roslyn\System.Collections.Immutable.dll
+E:\USAC\SA\Proyecto\Aduana_app\Aduana_app\bin\roslyn\System.Reflection.Metadata.dll
+E:\USAC\SA\Proyecto\Aduana_app\Aduana_app\bin\roslyn\vbc.exe
+E:\USAC\SA\Proyecto\Aduana_app\Aduana_app\bin\roslyn\VBCSCompiler.exe
+E:\USAC\SA\Proyecto\Aduana_app\Aduana_app\bin\roslyn\VBCSCompiler.exe.config
+E:\USAC\SA\Proyecto\Aduana_app\Aduana_app\bin\Aduana_app.dll.config
+E:\USAC\SA\Proyecto\Aduana_app\Aduana_app\bin\Aduana_app.dll
+E:\USAC\SA\Proyecto\Aduana_app\Aduana_app\bin\Aduana_app.pdb
+E:\USAC\SA\Proyecto\Aduana_app\Aduana_app\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\USAC\SA\Proyecto\Aduana_app\Aduana_app\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\USAC\SA\Proyecto\Aduana_app\Aduana_app\obj\Debug\Aduana_app.csprojResolveAssemblyReference.cache
+E:\USAC\SA\Proyecto\Aduana_app\Aduana_app\obj\Debug\Aduana_app.dll
+E:\USAC\SA\Proyecto\Aduana_app\Aduana_app\obj\Debug\Aduana_app.pdb
